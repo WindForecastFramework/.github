@@ -52,5 +52,5 @@ This project is licensed under the [MIT License](LICENSE) - see the individual r
 ---
 
 <div align="center">
-  <sub>Built with ❤️ for renewable energy research and operations</sub>
+  <sub>Built with ❤️ for renewable energy research</sub>
 </div>
