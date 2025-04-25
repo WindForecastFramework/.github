@@ -47,8 +47,7 @@ This project is licensed under the [MIT License](LICENSE) - see the individual r
 
 ## 🔗 Related Resources
 
-- [Project Documentation](https://github.com/WindForecastFramework/wind-forecasting/blob/main/PLANNING.md)
-- [Model Performance Metrics](https://github.com/WindForecastFramework/wind-forecasting/blob/main/README.md)
+- TODO: Add documentation and links to pages/repository docs
 
 ---
 
